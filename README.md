@@ -1,4 +1,4 @@
-### Oiê eu faço programa 👋😗
+
 
 
 ## Tecnologias 🚀
