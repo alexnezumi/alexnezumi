@@ -13,21 +13,6 @@
 - **Banco de Dados:** MySQL | PostgreSQL  
 - **Cloud & DevOps:** AWS | Git | GitHub  
 - **Outros:** Spring Boot | API REST | UX/UI  
-
----
-
-## 📌 Projetos em Destaque  
-
-✨ [**Dreams Bakery (Jogo Indie)**](#)  
-Um jogo estilo simulação/gestão de padaria com uma história envolvente.  
-*(Inspirado em Bonnie’s Bakery, Papa’s Games e Overcooked)*  
-
-⚡ [**Projetos de Backend em Java**](#)  
-API RESTs, autenticação JWT, CRUDs e integração com banco de dados.  
-
-📚 [**Estudos de Algoritmos**](#)  
-Repositório dedicado a exercícios e desafios em lógica de programação.  
-
 ---
 
 ## 📊 Estatísticas do GitHub  
