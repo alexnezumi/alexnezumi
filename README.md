@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Alex Silva Viana  
+# 👋 Olá, eu sou o Alex   
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Desenvolvedor focado em **Backend Java**  
