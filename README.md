@@ -20,7 +20,11 @@
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexnezumi&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnezumi&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnezumi&theme=tokyonight&show_icons=true&card_width=500)
+
+
+
+ 
 
 
 
