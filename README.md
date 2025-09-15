@@ -18,7 +18,7 @@
 
 ## 📊 Estatísticas do GitHub  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexviana&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexnezumi&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 
