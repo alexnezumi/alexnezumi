@@ -17,9 +17,10 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexnezumi&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexnezumi&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnezumi&layout=compact&theme=tokyonight)  
 
 
 
